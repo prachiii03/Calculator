@@ -2,9 +2,7 @@
 CodeAlpha-Task2
 
 
-Here's a sample README file description for your calculator project that you can use for uploading on GitHub:
 
----
 
 # Calculator App
 
@@ -24,6 +22,7 @@ This is a simple, responsive calculator application built using HTML, CSS, and J
 - **JavaScript**: For the calculator's functionality and theme switching logic.
 
 ## How to Use
+To run the application locally, follow these steps:
 
 1. **Clone the Repository**
 
@@ -41,3 +40,9 @@ This is a simple, responsive calculator application built using HTML, CSS, and J
 
    Simply open the `index.html` file in your browser to start using the calculator.
 
+
+Usage
+1.Open the application in your web browser.
+2.Use the buttons to perform calculations.
+3.Use the AC button to clear the display and the DE button to delete the last character.
+4.Toggle between light and dark themes using the button at the top-right corner.
