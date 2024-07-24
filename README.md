@@ -43,6 +43,9 @@ To run the application locally, follow these steps:
 
 Usage
 1.Open the application in your web browser.
+
 2.Use the buttons to perform calculations.
+
 3.Use the AC button to clear the display and the DE button to delete the last character.
+
 4.Toggle between light and dark themes using the button at the top-right corner.
